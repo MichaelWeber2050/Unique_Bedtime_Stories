@@ -1,2 +1,3 @@
 # Project_4
-Clustering reddit comments with nlp for sentiment analysis to compare time series of sentiment to coin value.
+Unique Bedtime Stories
+using recurrent neural networks to generate text in the style of the late great Hans Christian Andersen
