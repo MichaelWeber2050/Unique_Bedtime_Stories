@@ -1,0 +1,25 @@
+<<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+
+  </head>
+  <body>
+        <h1>{{ post.title }}</h1>
+        <p> By {{ post.author }} </p>
+
+      <div>
+        Starting with
+        <blockquote>
+          {{initial_text}}
+        </blockquote>
+        we carry on the story in the following way:
+      <blockquote>
+        <b>{{initial_text}}</b>{{story}}
+      </blockquote>
+
+  <div>
+    Back to the <a href="/">home page</a>?
+  </div>
+  </body>
+</html>
