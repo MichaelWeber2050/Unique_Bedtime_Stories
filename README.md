@@ -14,4 +14,4 @@ There is also a proven market for children's books and stories. For example "Go 
 
 __Wouldn't it be nice if there was an app to instantly generate a new unique story on demand?__
 
-enjoy your tales
+❀ enjoy your tales ❀
