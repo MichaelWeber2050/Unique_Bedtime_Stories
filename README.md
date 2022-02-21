@@ -11,6 +11,6 @@ There is also a proven market for children's books and stories. For example "Go 
 
 *queue the movie trailer guy voice*
 
-__Wouldn't it be nice if there was an app to instantly generate a new unique story on demand?__
+__Wouldn't it be nice if there was an app to instantly generate a fresh unique story on demand?__
 
 ❀ enjoy your tales off ❀
